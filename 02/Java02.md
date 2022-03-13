@@ -1,6 +1,6 @@
 # Java SE
 
-1. **OOP** (Encapsulation & Inheritance & Polymorphism)
+1. **OOP** (Encapsulation & Inheritance & Polymorphism & Abstract)
 
   - Object Oriented Programming  (VS Functional)
 

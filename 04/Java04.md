@@ -363,7 +363,7 @@
   		- in one execution of java app hashcode return the same integer 
   			- need not remain consistent from another execution of the same application
   		- obj1.equals(obj2) returns true then they have to have the same hashcode integer value 
-  		- !obj1.equals(obj2) not required the two objects have the same hashcode integer value
+  		- !obj1.equals(obj2) not required the two objects have the different hashcode integer values
   		- BUT Developer should be aware that producing the distinct integer results for unequal objects may improve the performance of hashtables
 
   	```java
